@@ -2,7 +2,7 @@
  TqSdk Gateway for VeighNa  天勤网关（TqSdk Gateway） VNPY完美的天勤网关
  TqSdk Gateway for VeighNa
 
-天勤网关（TqSdk Gateway）是VeighNa交易平台的官方数据接口之一，支持天勤量化平台的实时行情和交易功能。
+天勤网关（TqSdk Gateway）是VeighNa交易平台的非官方数据接口之一，支持天勤量化平台的实时行情和交易功能。
 
 ## 功能特性
 
@@ -275,8 +275,7 @@ CFFEX.IO2002-P-3550  - 沪深300股指期权看跌
 MIT License
 
 ## 作者
-
-VeighNa Team
+PVC大卫
 
 ## 联系方式
 
