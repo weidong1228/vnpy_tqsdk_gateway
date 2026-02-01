@@ -1,0 +1,44 @@
+Metadata-Version: 2.4
+Name: vnpy_tianqin
+Version: 3.8.6.0
+Summary: TqSdk Gateway for VeighNa
+Home-page: https://github.com/veighna/vnpy
+Author: VeighNa Team
+Author-email: vnpy@veighna.com
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: vnpy>=3.0.0
+Requires-Dist: tqsdk>=2.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+
+    TqSdk Gateway for VeighNa Trading Platform
+    
+    Features:
+    - Support for TqSdk API
+    - Support for futures and options trading
+    - Support for account and position data
+    - Support for order and trade data
+    - Auto-generate contracts from TqSdk API
+    - Support for option contracts
+    - Support for datafeed
+    

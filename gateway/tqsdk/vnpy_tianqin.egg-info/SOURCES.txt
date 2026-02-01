@@ -1,0 +1,7 @@
+README.md
+setup.py
+vnpy_tianqin.egg-info/PKG-INFO
+vnpy_tianqin.egg-info/SOURCES.txt
+vnpy_tianqin.egg-info/dependency_links.txt
+vnpy_tianqin.egg-info/requires.txt
+vnpy_tianqin.egg-info/top_level.txt
